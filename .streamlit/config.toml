@@ -1,0 +1,13 @@
+# The app follows the viewer's light/dark preference; charts read the active
+# theme via st.context.theme and switch palettes to match.
+[theme.light]
+primaryColor = "#1c5cab"
+
+[theme.dark]
+primaryColor = "#5598e7"
+
+[server]
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false

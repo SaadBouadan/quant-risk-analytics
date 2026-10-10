@@ -1,0 +1,4 @@
+# Normalise line endings so diffs and the sample CSV are identical on every OS.
+* text=auto eol=lf
+*.png binary
+*.ipynb text eol=lf

@@ -1,0 +1,8 @@
+# Development and testing tools (in addition to the runtime requirements).
+-r requirements.txt
+pytest>=8.0
+ruff>=0.6
+# Executing the exploratory notebook
+nbformat>=5.9
+nbclient>=0.10
+ipykernel>=6.29
